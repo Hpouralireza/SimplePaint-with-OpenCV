@@ -11,12 +11,12 @@ Press 'r' to reset and 'esc' to exit.
 
 #
 
-![First look](https://github.com/Hpouralireza/SimplePaint-with-OpenCV/assets/47522202/7c7deb8a-7f8a-441f-8818-d41c8b46961e)
+![First look](https://github.com/Hpouralireza/SimplePaint-with-OpenCV/assets/47522202/90978964-30ba-480b-8cdd-2aa99d57c7e5)
 
 
-![Custom backgroundcolor](https://github.com/Hpouralireza/SimplePaint-with-OpenCV/assets/47522202/d84d3fe6-cfda-44aa-bf63-a0470ba0a2fe)
+![Custom backgroundcolor](https://github.com/Hpouralireza/SimplePaint-with-OpenCV/assets/47522202/be2e7bf8-8452-4f40-8274-eb41708ffe48)
 
 
-![Brush usage](https://github.com/Hpouralireza/SimplePaint-with-OpenCV/assets/47522202/bf78b9f1-c478-42d7-9c47-1158a5b2d008)
+![Brush usage](https://github.com/Hpouralireza/SimplePaint-with-OpenCV/assets/47522202/216d95f3-d9fa-449d-ab4f-5bddbe82c639)
 
 
